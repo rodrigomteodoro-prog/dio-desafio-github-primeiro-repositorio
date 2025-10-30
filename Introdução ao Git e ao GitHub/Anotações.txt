@@ -1,0 +1,50 @@
+link para download do Git: https://git-scm.com/install/windows
+
+O GitBash é um terminal extendido para otimizar o uso do Git
+
+INTRODUÇÃO AO GIT
+ENTENDENDO O QUE É GIT E SUA IMPORTÂNCIA
+Git é uma ferramenta fundamental no desenvolvimento moderno de software, permitindo um controle de versão eficiente, colaboração entre equipes e facilidade de recuperação de versões anteriores do código. Ele é especialmente útil em projetos colaborativos, onde múltiplos desenvolvedores precisam trabalhar no mesmo código de forma organizada e sem conflitos.
+ 
+NAVEGAÇÃO VIA COMMAND LINE INTERFACE E INSTALAÇÃO
+	Comandos básicos para um bom desempenho no terminal
+ 
+ 
+	Realizando a instalação do Git
+ENTENDENDO COMO O GIT FUNCIONA POR BAIXO DOS PANOS
+	Tópicos fundamentais para entender o funcionamento do Git
+ 
+A sigla SHA significa Secure Hash Algorithm (Algoritimo de Hash Seguro), é um conjunto de funções hah criptográficas projetadas pela NSA (Agencia de segurança nacional dos EUA).
+ 
+ 
+	Objetos internos do Git
+ 
+ 
+       
+
+   
+ 
+
+Sistema distribuído seguro
+	Chave SSH e Tolken
+	
+
+	PRIMEIROS COMANDOS COM GIT
+	Iniciando o Git e criando um commit
+ 
+
+CICLO DE VIDA DOS ARQUIVOS NO GIT
+	Passo a passo no ciclo de vida
+ 
+ 
+ 
+ 
+ 
+
+INTRODUÇÃO AO GITHUB
+
+
+RESOLVENDO CONFLITOS
+
+
+
