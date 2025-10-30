@@ -1,0 +1,38 @@
+introdução
+UX Designer– pesquisa, protótipo, personas, objetivo.
+UI Designer – design, tipografia, cores, layouts.
+Modelo Cliente-Servidor – é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recurso ou serviço designado como servidores (Back End – servidores), e os requerentes dos serviços, designados como clientes (Front End – cliente).
+Front End – é o que programa a parte visual de um site ou aplicativo, oi seja, aquilo que conseguimos interagir. 
+É o responsável por desenvolver por meio de um código uma interface gráfica, normalmente as tecnologias base da Web (HTML, CSS E JavaScript).
+IDE – Ambiente de desenvolvimento integrado é um software para criação de aplicações que combina ferramentas comuns de desenvolvimento em uma única interface gráfica de usuárias (GUI)
+Frameworks – é um facilitador. Ele traz diversas soluções já pré-definidas, que descomplicam o trabalho dos profissionais no desenvolvimento de aplicativos e outros projetos digitais.
+Angular – Laravel – Vue – Spring – 
+Back End – vem da ideia do que esta por trás de uma aplicação. Pense que para conseguir usar o Facebook no dia a dia, os dados do seu perfil, amigo e publicações precisam estar salvos em algum lugar, sendo esse lugar um banco de dados e processados a partir de lá.
+Trabalha fazendo a ponte entre os dados que vem do navegador/App rumo ao banco de dados e vice-versa.
+API – Interface de programação de aplicativo, um intermediário de software que permite que dois aplicativos conversem entre si. Cada vez que você usa um App como o Facebook, envia uma mensagem instantânea ou verifica a previsão do tempo em seu telefone, você esta usando um API.
+ 
+Full Stack – é alguém que trabalha com o Back End do aplicativo, bem como para o Front End. Desenvolvedores Full Stack precisa ter algumas habilidades em uma ampla variedade de linguagens de programação.
+QA – é um conjunto de ações que as empresas realizam com o objetivo de entregar aos consumidores um produto ou serviço com alto nível de qualidade. Aplicar os métodos de QA no desenvolvimento de software, geram confiança e segurança aos clientes, indicando que seus produtos terão a qualidade esperada na etapa de implantação.
+O profissional de QA deve ter conhecimento sobre as atividades do projeto, além de ter um perfil analítico. Ele verifica se os padrões de qualidade estão sendo atendidos e se todos os requisitos mínimos esperados no produto serão entregues.
+Infraestrutura – 
+ 
+Atividades e profissionais em nuvem privada.
+1.	Segurança da Tecnologia da informação (lógica e física)
+2.	Mão de obra especializada (software e hardware)
+3.	Infraestrutura local
+Cloud – Nuvem Pública – 
+ 
+Vantagens de migrar para a nuvem pública:
+1.	Preço (pague somente o que usar)
+2.	Facilidade de contratação, configuração e infraestrutura
+3.	Escalabilidade
+4.	Performance
+Profissional de Cloud Computing – é o responsável pela infraestrutura de nuvem oferecida aos clientes.
+Mobile – 
+•	Android - JAVA ou KOTLIN / Android studio
+•	IOS – Swift / xcode
+•	Desenvolvimento Híbrido – Ionic , Flutter 
+
+
+
+

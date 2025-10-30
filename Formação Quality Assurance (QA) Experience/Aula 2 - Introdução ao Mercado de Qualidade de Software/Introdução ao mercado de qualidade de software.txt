@@ -1,0 +1,110 @@
+Introdução ao mercado de qualidade de software
+MERCADOS E TENDENCIAS
+ 
+Preocupações da qualidade
+Gerenciamento de qualidade:
+•	Nível organizacional – processos organizacionais e padrões.
+•	Nível de projetos – plano de qualidade; aplicação de processos específicos de qualidade.
+•	Gerenciamento qualidade = burocratização.
+ 
+Experiencia do usuário
+o	Usuário mais exigente
+	Performance
+	Acessibilidade
+	Segurança
+	Usabilidade
+o	Maior alcance populacional
+o	Capacitação para novas tecnologias
+•	Ia
+•	IoT
+•	Cloud
+•	Blockchain
+o	Foco em segurança
+o	Uso de metodologias ágeis e DevOps
+
+Aula 2 
+ 
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+Fundamentos de qualidade de software
+•	Definições de qualidade
+•	Priorização e técnicas de testes
+•	Plano de testes e documentação
+•	Gerenciamento de casos e testes
+•	Taxonomia de teste
+•	Gerenciamento de defeitos
+•	Métricas/Relatórios
+Processos de software e ciclos de vida
+•	Modelos de processo de software
+•	Desenvolvimento ágil de software
+•	Teste dentro do modelo ágil
+Fundamentos de aplicação Web e Redes
+•	Fundamentos de redes
+•	Arquitetura da internet e protocolos importantes
+•	Funcionamento da webpages
+•	Linguagens e tecnologias
+Fundamentos da ciência da computação
+•	Representação e estrutura de dados
+•	Compilação X Interpretação
+•	Concorrência e threading
+•	Conceitos de sistemas operacionais
+•	Algoritmos e complexidade
+Fundamentos de programação
+•	Uso de linha de comando
+•	Editores e IDEs
+•	Sintaxe e fluxo de controle
+•	Paradigmas de programação
+Padrões de projetos e arquitetura de sistemas
+•	Conceitos e tipos de padrões
+•	Tipos de arquitetura
+•	Modelagem de sistemas
+Testes automatizados
+•	Pirâmide de teste
+•	Automação como investimento
+•	Tipos de testes automatizados
+•	Frameworks para automação
+•	Objetos falsos e seus tipos
+•	BDD e linguagem Gherkin
+CI/CD
+•	Estratégias de versionamento e tecnologias
+•	Deploys, release e orquestração
+•	Configuração e builds
+•	Uso de containers
+•	Testes integrados à pipeline
+•	Device farms e execução remota
+
+
+
+
+
+
+
+
+
+Aula 3 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+

@@ -1,0 +1,107 @@
+AULA 5 – O CAMINHO DA CERTIFICAÇÃO CTFL
+
+	CONHECENDO A ISTQB E BSTQB
+ 
+ 
+ 
+ 
+	PORTIFÓLIO E PLANOS DE CERTIFICAÇÕES
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ESTRUTURA E ROADMAP PARA APROVAÇÃO NA CTFL
+	Estrutura, objetivos de aprendizagem e níveis cognitivos
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+	ROADMAP DE APRENDIZAGEM
+ 
+ 
+   
+ 
+ 
+
+
+REVISANDO CONCEITOS IMPORTANTES PARA A CTFL
+	Fundamentos de Testes
+ 
+ 
+Uma condição de teste é qualquer aspecto testável do software – como função, requisito, estrutura de dados, ou fluxo de processo – usado como  base para projetar casos de testes 
+ 
+Os testes apenas detectam falhas, mas não as causas dessas falhas.
+Depuração é um processo de análise das falhas encontradas dos testes, buscando suas causas e corrigindo-as.
+•	Defeito – Um defeito é um erro no código do software. Ele ocorre durante o desenvolvimento do sistema e é causado por uma falha na implementação ou no planejamento.
+>> Exemplo: Se um desenvolvedor escrever um código errado que causa um comportamento inesperado, isso é um defeito.
+•	Erro/Falha – Uma falha é o comportamento errado do software quando ele está sendo usado. Isso ocorre quando o software não faz o que deveria devido a um defeito no código.
+>>Exemplo: Se um usuário clicar em um botão e o sistema não responder corretamente (como travar ou exibir uma mensagem errada), isso é uma falha.
+Os 7 princípios de teste são diretrizes fundamentais que orientam o processo de teste de software e ajudam a garantir a qualidade do produto. Aqui estão os princípios explicados de forma simples:
+
+1. Testes mostram a presença de defeitos
+•	Explicação: O principal objetivo dos testes é identificar defeitos no software. No entanto, os testes não garantem que o sistema está livre de defeitos, apenas mostram onde eles podem estar presentes. Ou seja, não se pode garantir que um software está livre de falhas apenas porque ele passou em um teste.
+2. Testes completos são impossíveis
+•	Explicação: Não é possível testar todas as combinações possíveis de entradas, ambientes, e condições, especialmente em sistemas complexos. Portanto, o teste é sempre uma atividade parcial. O objetivo é testar as áreas de maior risco e os casos mais críticos, priorizando o que tem mais chance de falhar.
+3. A primeira falha encontra-se com mais defeitos
+•	Explicação: Quando um defeito é encontrado, é comum que outros defeitos estejam agrupados ao redor dele. Isso ocorre porque defeitos geralmente surgem em áreas que têm um código mais complexo ou mal projetado. Identificar um defeito pode ajudar a descobrir outros problemas relacionados.
+4. Os testes dependem do contexto
+•	Explicação: A estratégia de teste deve ser adaptada ao contexto do sistema em teste. Sistemas diferentes (como sistemas financeiros, sistemas de saúde ou jogos) têm requisitos e riscos diferentes. Assim, os testes devem ser planejados levando em conta o tipo de sistema, o ambiente de execução, os requisitos de segurança, entre outros fatores.
+5. Somente defeitos podem ser encontrados
+•	Explicação: Os testes não garantem a qualidade do software. Eles apenas revelam defeitos. Mesmo que o software passe em todos os testes, isso não significa que ele está 100% livre de falhas. O teste é uma atividade de detecção de defeitos, não de garantia de qualidade.
+6. A ausência de erros é uma falácia
+•	Explicação: Apenas porque um software não apresenta falhas em um teste ou parece funcionar bem, isso não significa que ele está isento de problemas. O software pode estar funcionando conforme esperado, mas ainda assim não atender às necessidades dos usuários ou aos requisitos de negócios. Portanto, não encontrar erros não é sinônimo de um produto de qualidade.
+7. Defeitos agrupados (Lei de Pareto)
+•	Explicação: A maioria dos defeitos em um sistema tende a estar concentrada em áreas específicas do código, com alguns pontos críticos (aproximadamente 80% dos defeitos podem ser causados por 20% do código). Ao realizar testes, as áreas mais susceptíveis a falhas (geralmente as mais complexas ou mais alteradas) devem ser priorizadas.
+
+ 
+ 
+ 
+
+
+♦	Teste durante o ciclo de vida de desenvolvimento de software
+ 
+ 
+ 
+ 
+ 
+♦	Teste estático
+ 
+ 
+ 
+ 
+O teste estático é uma técnica de teste de software que visa analisar o código-fonte, documentos ou outros artefatos do sistema sem executá-los. Ou seja, ao contrário dos testes dinâmicos, que exigem a execução do software, os testes estáticos são realizados analisando os componentes do sistema sem rodar o programa.
+
+♦	Técnicas de testes
+ 
+O teste exploratório é uma técnica dinâmica e adaptativa de testes de software, onde o testador explora o sistema livremente, aplicando intuição e conhecimento para identificar falhas que poderiam ser difíceis de prever. Ele é especialmente útil para descobrir problemas inesperados e melhorar a cobertura em situações onde os testes mais estruturados não são suficientes ou práticos.
+ 
+ 
+♦	Gerenciamento de testes
+ 
+ 
+ 
+ 
+
+♦	Ferramentas de suporte ao teste
+ 
+ 
+
+

@@ -1,0 +1,125 @@
+Aula 4
+Objetivo do curso: Compreender o ciclo de vida do software e seus processos, bem como entender como a qualidade e os testes atuam nos processos, tendo como foco o pensamento ágil.
+PROCESSOS DE SOFTWARE
+...O desenvolvimento de software é um processo de aprendizado social.
+Trata-se de um processo interativo no qual a própria ferramenta em evolução serve como meio de comunicação...
+ 
+•	Todos são responsáveis diretamente ou indiretamente
+•	Processos são adaptáveis de acordo com o produto a ser construído.
+ 
+ 
+ 
+ 
+	Modelos prescritivos – clássicos ou tradicionais
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+	Modelos incremental, evolucionário e concorrente
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	Modelos especializados
+ 
+ 
+ 
+	Processo unificado
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DESENVOLVIMENTO ÁGIL
+	O manifesto ágil
+ 
+ 
+ 
+ 
+
+ 
+ 
+ADAPTAÇÃO= DIMINUIÇÃO CUSTO
+ 
+PALAVRA CHAVE AGEIS – IMPREVISIBILIDADE
+	Estreme programming
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+
+	Scrum
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+	Outros modelos ágeis
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+TESTE NO MUNDO ÁGIL
+	Contextualizando a atividade de teste
+ 
+ 
+ 
+ 
+
+	Testes nas abordagens ágeis
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	Métodos de testes nos modelos ágeis
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+agil
